@@ -1,0 +1,56 @@
+2026-04-08 22:47:14,123 - [AnalysisServer] [INFO] [SYSTEM] Started with 8 workers
+2026-04-08 22:47:14,126 - [API Server] [INFO] [SYSTEM] API Server started on http://localhost:8080
+2026-04-08 22:50:25,184 - [AnalysisServer] [INFO] [SYSTEM] Started with 8 workers
+2026-04-08 22:50:25,187 - [API Server] [INFO] [SYSTEM] API Server started on http://localhost:8080
+2026-04-08 22:51:10,633 - [AnalysisServer] [INFO] [SYSTEM] Started with 8 workers
+2026-04-08 22:51:10,636 - [API Server] [INFO] [SYSTEM] API Server started on http://localhost:8080
+2026-04-08 22:53:16,058 - [AnalysisServer] [INFO] [SYSTEM] Started with 8 workers
+2026-04-08 22:53:16,061 - [API Server] [INFO] [SYSTEM] API Server started on http://localhost:8080
+2026-04-08 23:22:48,652 - [AnalysisServer] [INFO] [SYSTEM] Started with 8 workers
+2026-04-08 23:22:48,656 - [API Server] [INFO] [SYSTEM] API Server started on http://localhost:8080
+2026-04-08 23:24:21,263 - [AnalysisServer] [INFO] [SYSTEM] Started with 8 workers
+2026-04-08 23:28:09,103 - [AnalysisServer] [INFO] [SYSTEM] Started with 8 workers
+2026-04-08 23:28:09,105 - [API Server] [INFO] [SYSTEM] API Server started on http://localhost:8080
+2026-04-08 23:28:28,020 - [AnalysisServer] [INFO] [SYSTEM] Started with 8 workers
+2026-04-08 23:28:28,023 - [API Server] [INFO] [SYSTEM] API Server started on http://localhost:8080
+2026-04-08 23:28:59,863 - [AnalysisServer] [INFO] [5c59f35e-02fe-4068-8fe4-8228b305243b] Task queued for processing
+2026-04-08 23:28:59,863 - [API Server] [INFO] [5c59f35e-02fe-4068-8fe4-8228b305243b] Task accepted: historical_hours=2000
+2026-04-08 23:28:59,865 - [API Server] [INFO] [5c59f35e-02fe-4068-8fe4-8228b305243b] Status checked: queued
+2026-04-08 23:29:01,869 - [AnalysisServer] [INFO] [5c59f35e-02fe-4068-8fe4-8228b305243b] Result stored
+2026-04-08 23:29:01,870 - [API Server] [INFO] [5c59f35e-02fe-4068-8fe4-8228b305243b] Status checked: completed
+2026-04-08 23:29:01,872 - [API Server] [INFO] [5c59f35e-02fe-4068-8fe4-8228b305243b] Forecast retrieved
+2026-04-08 23:29:01,876 - [AnalysisServer] [INFO] [de9a74e7-3f5c-4e30-8fa6-55b1ee79c489] Task queued for processing
+2026-04-08 23:29:01,876 - [API Server] [INFO] [de9a74e7-3f5c-4e30-8fa6-55b1ee79c489] Task accepted: historical_hours=1500
+2026-04-08 23:29:01,879 - [AnalysisServer] [INFO] [6f9087cc-9822-4646-96a6-96249ac2af0a] Task queued for processing
+2026-04-08 23:29:01,879 - [API Server] [INFO] [6f9087cc-9822-4646-96a6-96249ac2af0a] Task accepted: historical_hours=1500
+2026-04-08 23:29:01,880 - [AnalysisServer] [INFO] [d2efcbfe-055f-439a-a40d-07b9148c8890] Task queued for processing
+2026-04-08 23:29:01,881 - [API Server] [INFO] [d2efcbfe-055f-439a-a40d-07b9148c8890] Task accepted: historical_hours=1500
+2026-04-08 23:29:01,882 - [AnalysisServer] [INFO] [6f2821ab-351c-491f-9157-6c988110cd5e] Task queued for processing
+2026-04-08 23:29:01,882 - [API Server] [INFO] [6f2821ab-351c-491f-9157-6c988110cd5e] Task accepted: historical_hours=1500
+2026-04-08 23:29:01,884 - [AnalysisServer] [INFO] [93b57316-bf75-4764-962e-18e2b4e857bd] Task queued for processing
+2026-04-08 23:29:01,884 - [API Server] [INFO] [93b57316-bf75-4764-962e-18e2b4e857bd] Task accepted: historical_hours=1500
+2026-04-08 23:29:01,885 - [API Server] [INFO] [de9a74e7-3f5c-4e30-8fa6-55b1ee79c489] Status checked: queued
+2026-04-08 23:29:02,887 - [API Server] [INFO] [de9a74e7-3f5c-4e30-8fa6-55b1ee79c489] Status checked: queued
+2026-04-08 23:29:03,891 - [AnalysisServer] [INFO] [6f9087cc-9822-4646-96a6-96249ac2af0a] Result stored
+2026-04-08 23:29:03,891 - [AnalysisServer] [INFO] [d2efcbfe-055f-439a-a40d-07b9148c8890] Result stored
+2026-04-08 23:29:03,891 - [AnalysisServer] [INFO] [93b57316-bf75-4764-962e-18e2b4e857bd] Result stored
+2026-04-08 23:29:03,892 - [AnalysisServer] [INFO] [de9a74e7-3f5c-4e30-8fa6-55b1ee79c489] Result stored
+2026-04-08 23:29:03,892 - [AnalysisServer] [INFO] [6f2821ab-351c-491f-9157-6c988110cd5e] Result stored
+2026-04-08 23:29:03,892 - [API Server] [INFO] [de9a74e7-3f5c-4e30-8fa6-55b1ee79c489] Status checked: completed
+2026-04-08 23:29:03,894 - [API Server] [INFO] [de9a74e7-3f5c-4e30-8fa6-55b1ee79c489] Forecast retrieved
+2026-04-08 23:29:03,897 - [API Server] [INFO] [6f9087cc-9822-4646-96a6-96249ac2af0a] Status checked: completed
+2026-04-08 23:29:03,899 - [API Server] [INFO] [6f9087cc-9822-4646-96a6-96249ac2af0a] Forecast retrieved
+2026-04-08 23:29:03,902 - [API Server] [INFO] [d2efcbfe-055f-439a-a40d-07b9148c8890] Status checked: completed
+2026-04-08 23:29:03,905 - [API Server] [INFO] [d2efcbfe-055f-439a-a40d-07b9148c8890] Forecast retrieved
+2026-04-08 23:29:03,908 - [API Server] [INFO] [6f2821ab-351c-491f-9157-6c988110cd5e] Status checked: completed
+2026-04-08 23:29:03,912 - [API Server] [INFO] [6f2821ab-351c-491f-9157-6c988110cd5e] Forecast retrieved
+2026-04-08 23:29:03,915 - [API Server] [INFO] [93b57316-bf75-4764-962e-18e2b4e857bd] Status checked: completed
+2026-04-08 23:29:03,918 - [API Server] [INFO] [93b57316-bf75-4764-962e-18e2b4e857bd] Forecast retrieved
+2026-04-08 23:29:03,921 - [AnalysisServer] [INFO] [cf336f47-74b1-4a70-919d-b60e82eb5474] Task queued for processing
+2026-04-08 23:29:03,922 - [API Server] [INFO] [cf336f47-74b1-4a70-919d-b60e82eb5474] Task accepted: historical_hours=5000
+2026-04-08 23:29:04,925 - [API Server] [INFO] [cf336f47-74b1-4a70-919d-b60e82eb5474] Status checked: queued
+2026-04-08 23:29:05,927 - [AnalysisServer] [INFO] [cf336f47-74b1-4a70-919d-b60e82eb5474] Result stored
+2026-04-08 23:29:05,928 - [API Server] [INFO] [cf336f47-74b1-4a70-919d-b60e82eb5474] Status checked: completed
+2026-04-08 23:29:06,930 - [API Server] [INFO] [cf336f47-74b1-4a70-919d-b60e82eb5474] Status checked: completed
+2026-04-08 23:29:07,932 - [API Server] [INFO] [cf336f47-74b1-4a70-919d-b60e82eb5474] Status checked: completed
+2026-04-08 23:29:08,936 - [API Server] [INFO] [cf336f47-74b1-4a70-919d-b60e82eb5474] Status checked: completed

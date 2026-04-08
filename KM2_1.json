@@ -1,0 +1,6 @@
+{
+  "task_id": "forecast_001",
+  "historical_hours": 5000,
+  "horizon": 48,
+  "season_factor": 1.5
+}
